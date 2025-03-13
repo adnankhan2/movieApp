@@ -1,3 +1,4 @@
+import "../Css/Home.css";
 import MovieCard from "../components/MovieCard";
 import { useState } from "react";
 function Home() {
